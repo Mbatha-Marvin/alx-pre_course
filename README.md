@@ -1,2 +1,2 @@
-updatMy first readme
+My first readme
 updated!
